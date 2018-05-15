@@ -32,7 +32,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func zeng(_ sender: UIButton) {
-        DBManager.shared.
+        
     }
 
     @IBAction func shan(_ sender: UIButton) {

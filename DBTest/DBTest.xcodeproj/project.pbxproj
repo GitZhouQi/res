@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA4D9FA020AAD65800763F9A /* CollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9F9F20AAD65800763F9A /* CollectionViewCell.m */; };
 		DAFF57321EDFE52B00246AF1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFF57311EDFE52B00246AF1 /* AppDelegate.swift */; };
 		DAFF57341EDFE52B00246AF1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFF57331EDFE52B00246AF1 /* ViewController.swift */; };
 		DAFF57371EDFE52B00246AF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAFF57351EDFE52B00246AF1 /* Main.storyboard */; };
@@ -40,6 +41,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DA4D9F9E20AAD65800763F9A /* CollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CollectionViewCell.h; sourceTree = "<group>"; };
+		DA4D9F9F20AAD65800763F9A /* CollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CollectionViewCell.m; sourceTree = "<group>"; };
 		DAFF572E1EDFE52B00246AF1 /* DBTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DBTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAFF57311EDFE52B00246AF1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DAFF57331EDFE52B00246AF1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -135,6 +138,8 @@
 				DAFF573A1EDFE52B00246AF1 /* LaunchScreen.storyboard */,
 				DAFF573D1EDFE52B00246AF1 /* Info.plist */,
 				DAFF57721EDFE5F500246AF1 /* DBTest-Bridging-Header.h */,
+				DA4D9F9E20AAD65800763F9A /* CollectionViewCell.h */,
+				DA4D9F9F20AAD65800763F9A /* CollectionViewCell.m */,
 			);
 			path = DBTest;
 			sourceTree = "<group>";
@@ -296,6 +301,7 @@
 				DAFF57341EDFE52B00246AF1 /* ViewController.swift in Sources */,
 				DAFF57801EDFE5F600246AF1 /* FMDatabasePool.m in Sources */,
 				DAFF57601EDFE53900246AF1 /* DBManager.swift in Sources */,
+				DA4D9FA020AAD65800763F9A /* CollectionViewCell.m in Sources */,
 				DAFF57811EDFE5F600246AF1 /* FMDatabaseQueue.m in Sources */,
 				DAFF57321EDFE52B00246AF1 /* AppDelegate.swift in Sources */,
 				DAFF577E1EDFE5F600246AF1 /* FMDatabase.m in Sources */,
@@ -554,6 +560,7 @@
 				DAFF57581EDFE52B00246AF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DAFF57591EDFE52B00246AF1 /* Build configuration list for PBXNativeTarget "DBTestTests" */ = {
 			isa = XCConfigurationList;
@@ -562,6 +569,7 @@
 				DAFF575B1EDFE52B00246AF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DAFF575C1EDFE52B00246AF1 /* Build configuration list for PBXNativeTarget "DBTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -570,6 +578,7 @@
 				DAFF575E1EDFE52B00246AF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
