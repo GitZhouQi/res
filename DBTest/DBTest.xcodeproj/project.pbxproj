@@ -16,8 +16,6 @@
 		DA4D9FBB20AAF09300763F9A /* AACollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FBA20AAF09300763F9A /* AACollectionViewCell.m */; };
 		DA4D9FBE20AAF22800763F9A /* BBCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FBD20AAF22800763F9A /* BBCollectionViewCell.m */; };
 		DA4D9FC420AAF25500763F9A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		DA4D9FC720AAF36900763F9A /* GGGCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FC620AAF36900763F9A /* GGGCollectionViewCell.m */; };
-		DA4D9FC420AAF25500763F9A /* (null) in Sources */ = {isa = PBXBuildFile; };
 		DA4D9FCA20AAF37500763F9A /* AAACollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FC920AAF37500763F9A /* AAACollectionViewCell.m */; };
 		DAFF57321EDFE52B00246AF1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFF57311EDFE52B00246AF1 /* AppDelegate.swift */; };
 		DAFF57341EDFE52B00246AF1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFF57331EDFE52B00246AF1 /* ViewController.swift */; };
@@ -68,8 +66,6 @@
 		DA4D9FBA20AAF09300763F9A /* AACollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AACollectionViewCell.m; sourceTree = "<group>"; };
 		DA4D9FBC20AAF22800763F9A /* BBCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BBCollectionViewCell.h; sourceTree = "<group>"; };
 		DA4D9FBD20AAF22800763F9A /* BBCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BBCollectionViewCell.m; sourceTree = "<group>"; };
-		DA4D9FC520AAF36900763F9A /* GGGCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GGGCollectionViewCell.h; sourceTree = "<group>"; };
-		DA4D9FC620AAF36900763F9A /* GGGCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GGGCollectionViewCell.m; sourceTree = "<group>"; };
 		DA4D9FC820AAF37500763F9A /* AAACollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AAACollectionViewCell.h; sourceTree = "<group>"; };
 		DA4D9FC920AAF37500763F9A /* AAACollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AAACollectionViewCell.m; sourceTree = "<group>"; };
 		DAFF572E1EDFE52B00246AF1 /* DBTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DBTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -128,8 +124,6 @@
 		DAFF57251EDFE52B00246AF1 = {
 			isa = PBXGroup;
 			children = (
-				DA4D9FC520AAF36900763F9A /* GGGCollectionViewCell.h */,
-				DA4D9FC620AAF36900763F9A /* GGGCollectionViewCell.m */,
 				DAFF57301EDFE52B00246AF1 /* DBTest */,
 				DAFF57451EDFE52B00246AF1 /* DBTestTests */,
 				DAFF57501EDFE52B00246AF1 /* DBTestUITests */,
@@ -348,7 +342,6 @@
 				DA4D9FCA20AAF37500763F9A /* AAACollectionViewCell.m in Sources */,
 				DAFF57341EDFE52B00246AF1 /* ViewController.swift in Sources */,
 				DAFF57801EDFE5F600246AF1 /* FMDatabasePool.m in Sources */,
-				DA4D9FC720AAF36900763F9A /* GGGCollectionViewCell.m in Sources */,
 				DA4D9FC420AAF25500763F9A /* (null) in Sources */,
 				DA4D9FC420AAF25500763F9A /* (null) in Sources */,
 				DA4D9FA320AAE45700763F9A /* sCollectionViewCell.m in Sources */,
