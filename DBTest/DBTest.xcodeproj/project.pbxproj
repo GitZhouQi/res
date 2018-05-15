@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DA4D9FA020AAD65800763F9A /* CollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9F9F20AAD65800763F9A /* CollectionViewCell.m */; };
+		DA4D9FA320AAE45700763F9A /* sCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FA220AAE45700763F9A /* sCollectionViewCell.m */; };
 		DAFF57321EDFE52B00246AF1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFF57311EDFE52B00246AF1 /* AppDelegate.swift */; };
 		DAFF57341EDFE52B00246AF1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFF57331EDFE52B00246AF1 /* ViewController.swift */; };
 		DAFF57371EDFE52B00246AF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAFF57351EDFE52B00246AF1 /* Main.storyboard */; };
@@ -43,6 +44,8 @@
 /* Begin PBXFileReference section */
 		DA4D9F9E20AAD65800763F9A /* CollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CollectionViewCell.h; sourceTree = "<group>"; };
 		DA4D9F9F20AAD65800763F9A /* CollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CollectionViewCell.m; sourceTree = "<group>"; };
+		DA4D9FA120AAE45700763F9A /* sCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sCollectionViewCell.h; sourceTree = "<group>"; };
+		DA4D9FA220AAE45700763F9A /* sCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sCollectionViewCell.m; sourceTree = "<group>"; };
 		DAFF572E1EDFE52B00246AF1 /* DBTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DBTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAFF57311EDFE52B00246AF1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DAFF57331EDFE52B00246AF1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -140,6 +143,8 @@
 				DAFF57721EDFE5F500246AF1 /* DBTest-Bridging-Header.h */,
 				DA4D9F9E20AAD65800763F9A /* CollectionViewCell.h */,
 				DA4D9F9F20AAD65800763F9A /* CollectionViewCell.m */,
+				DA4D9FA120AAE45700763F9A /* sCollectionViewCell.h */,
+				DA4D9FA220AAE45700763F9A /* sCollectionViewCell.m */,
 			);
 			path = DBTest;
 			sourceTree = "<group>";
@@ -300,6 +305,7 @@
 			files = (
 				DAFF57341EDFE52B00246AF1 /* ViewController.swift in Sources */,
 				DAFF57801EDFE5F600246AF1 /* FMDatabasePool.m in Sources */,
+				DA4D9FA320AAE45700763F9A /* sCollectionViewCell.m in Sources */,
 				DAFF57601EDFE53900246AF1 /* DBManager.swift in Sources */,
 				DA4D9FA020AAD65800763F9A /* CollectionViewCell.m in Sources */,
 				DAFF57811EDFE5F600246AF1 /* FMDatabaseQueue.m in Sources */,
