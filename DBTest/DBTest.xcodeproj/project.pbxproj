@@ -17,8 +17,8 @@
 		DA4D9FBE20AAF22800763F9A /* BBCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FBD20AAF22800763F9A /* BBCollectionViewCell.m */; };
 		DA4D9FC420AAF25500763F9A /* (null) in Sources */ = {isa = PBXBuildFile; };
 		DA4D9FC720AAF36900763F9A /* GGGCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FC620AAF36900763F9A /* GGGCollectionViewCell.m */; };
-		DA4D9FC420AAF25500763F9A /* (null) in Sources */ = {isa = PBXBuildFile; };
 		DA4D9FCA20AAF37500763F9A /* AAACollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FC920AAF37500763F9A /* AAACollectionViewCell.m */; };
+		DA4D9FCD20AAF4A100763F9A /* xaxCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FCC20AAF4A100763F9A /* xaxCollectionViewCell.m */; };
 		DAFF57321EDFE52B00246AF1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFF57311EDFE52B00246AF1 /* AppDelegate.swift */; };
 		DAFF57341EDFE52B00246AF1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFF57331EDFE52B00246AF1 /* ViewController.swift */; };
 		DAFF57371EDFE52B00246AF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAFF57351EDFE52B00246AF1 /* Main.storyboard */; };
@@ -72,6 +72,8 @@
 		DA4D9FC620AAF36900763F9A /* GGGCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GGGCollectionViewCell.m; sourceTree = "<group>"; };
 		DA4D9FC820AAF37500763F9A /* AAACollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AAACollectionViewCell.h; sourceTree = "<group>"; };
 		DA4D9FC920AAF37500763F9A /* AAACollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AAACollectionViewCell.m; sourceTree = "<group>"; };
+		DA4D9FCB20AAF4A100763F9A /* xaxCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = xaxCollectionViewCell.h; sourceTree = "<group>"; };
+		DA4D9FCC20AAF4A100763F9A /* xaxCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xaxCollectionViewCell.m; sourceTree = "<group>"; };
 		DAFF572E1EDFE52B00246AF1 /* DBTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DBTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAFF57311EDFE52B00246AF1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DAFF57331EDFE52B00246AF1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -187,6 +189,8 @@
 				DA4D9FBD20AAF22800763F9A /* BBCollectionViewCell.m */,
 				DA4D9FC820AAF37500763F9A /* AAACollectionViewCell.h */,
 				DA4D9FC920AAF37500763F9A /* AAACollectionViewCell.m */,
+				DA4D9FCB20AAF4A100763F9A /* xaxCollectionViewCell.h */,
+				DA4D9FCC20AAF4A100763F9A /* xaxCollectionViewCell.m */,
 			);
 			path = DBTest;
 			sourceTree = "<group>";
@@ -362,6 +366,7 @@
 				DA4D9FAF20AAED0C00763F9A /* CCollectionViewCell.m in Sources */,
 				DA4D9FB820AAEFBE00763F9A /* ECollectionViewCell.m in Sources */,
 				DA4D9FBE20AAF22800763F9A /* BBCollectionViewCell.m in Sources */,
+				DA4D9FCD20AAF4A100763F9A /* xaxCollectionViewCell.m in Sources */,
 				DAFF577E1EDFE5F600246AF1 /* FMDatabase.m in Sources */,
 				DAFF57821EDFE5F600246AF1 /* FMResultSet.m in Sources */,
 				DAFF577F1EDFE5F600246AF1 /* FMDatabaseAdditions.m in Sources */,
