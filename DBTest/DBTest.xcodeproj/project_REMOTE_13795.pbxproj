@@ -11,7 +11,6 @@
 		DA4D9FA320AAE45700763F9A /* sCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FA220AAE45700763F9A /* sCollectionViewCell.m */; };
 		DA4D9FA920AAECCE00763F9A /* ACollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FA820AAECCE00763F9A /* ACollectionViewCell.m */; };
 		DA4D9FAF20AAED0C00763F9A /* CCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FAE20AAED0C00763F9A /* CCollectionViewCell.m */; };
-		DA4D9FB220AAEF8D00763F9A /* DCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FB120AAEF8D00763F9A /* DCollectionViewCell.m */; };
 		DA4D9FB820AAEFBE00763F9A /* ECollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA4D9FB720AAEFBE00763F9A /* ECollectionViewCell.m */; };
 		DAFF57321EDFE52B00246AF1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFF57311EDFE52B00246AF1 /* AppDelegate.swift */; };
 		DAFF57341EDFE52B00246AF1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFF57331EDFE52B00246AF1 /* ViewController.swift */; };
@@ -54,8 +53,6 @@
 		DA4D9FA820AAECCE00763F9A /* ACollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ACollectionViewCell.m; sourceTree = "<group>"; };
 		DA4D9FAD20AAED0C00763F9A /* CCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CCollectionViewCell.h; sourceTree = "<group>"; };
 		DA4D9FAE20AAED0C00763F9A /* CCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CCollectionViewCell.m; sourceTree = "<group>"; };
-		DA4D9FB020AAEF8D00763F9A /* DCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DCollectionViewCell.h; sourceTree = "<group>"; };
-		DA4D9FB120AAEF8D00763F9A /* DCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DCollectionViewCell.m; sourceTree = "<group>"; };
 		DA4D9FB620AAEFBE00763F9A /* ECollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ECollectionViewCell.h; sourceTree = "<group>"; };
 		DA4D9FB720AAEFBE00763F9A /* ECollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ECollectionViewCell.m; sourceTree = "<group>"; };
 		DAFF572E1EDFE52B00246AF1 /* DBTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DBTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -161,8 +158,6 @@
 				DA4D9FA820AAECCE00763F9A /* ACollectionViewCell.m */,
 				DA4D9FAD20AAED0C00763F9A /* CCollectionViewCell.h */,
 				DA4D9FAE20AAED0C00763F9A /* CCollectionViewCell.m */,
-				DA4D9FB020AAEF8D00763F9A /* DCollectionViewCell.h */,
-				DA4D9FB120AAEF8D00763F9A /* DCollectionViewCell.m */,
 				DA4D9FB620AAEFBE00763F9A /* ECollectionViewCell.h */,
 				DA4D9FB720AAEFBE00763F9A /* ECollectionViewCell.m */,
 			);
@@ -330,7 +325,6 @@
 				DA4D9FA020AAD65800763F9A /* CollectionViewCell.m in Sources */,
 				DAFF57811EDFE5F600246AF1 /* FMDatabaseQueue.m in Sources */,
 				DAFF57321EDFE52B00246AF1 /* AppDelegate.swift in Sources */,
-				DA4D9FB220AAEF8D00763F9A /* DCollectionViewCell.m in Sources */,
 				DA4D9FA920AAECCE00763F9A /* ACollectionViewCell.m in Sources */,
 				DA4D9FAF20AAED0C00763F9A /* CCollectionViewCell.m in Sources */,
 				DA4D9FB820AAEFBE00763F9A /* ECollectionViewCell.m in Sources */,
